@@ -2,9 +2,9 @@
 
 Welcome to the GitHub organization for Algorand developer bootcamps! This organization contains repositories for all of the bootcamps we currently have availible. Below is a link to each repository, a summary of the content, and video recordings of the live bootcamp. The README in each individual repo contains more information about how to get started and follow along. 
 
-## TypeScript Bootcamps
+## Fullstack TypeScript Bootcamps
 
-Fullstack course using TypeScript for smart contracts via TEALScript and frontend via React. 
+Fullstack courses using TypeScript for smart contracts via TEALScript and frontend via React. 
 
 ### Beginner 
 
