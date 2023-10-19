@@ -29,7 +29,7 @@ Repository: https://github.com/algorand-bootcamp/ts-beginner-es
 
 ### Intermediate
 
-The intermediate course goes more in-depth into core Algorand concepts and uses those concepts to expand our DAO. The main topics are using box storage for more flexible on-chain storage and implement time components into our logic. 
+The intermediate course goes more in-depth into core Algorand concepts and uses those concepts to expand our DAO. The main topics are using box storage for more flexible on-chain storage and implementing time constraints into our logic. 
 
 #### English
 Repository: https://github.com/algorand-bootcamp/ts-intermediate-en
