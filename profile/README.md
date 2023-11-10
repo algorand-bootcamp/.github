@@ -44,6 +44,6 @@ Repository: https://github.com/algorand-bootcamp/ts-intermediate-en
 Repository: https://github.com/algorand-bootcamp/ts-intermediate-es
 
 - Episode #1 [Tipos de almacenamiento y pruebas del LocalState](https://youtu.be/H4JalPdKt0Q)
-- Episode #2 [Agregando Closeout y clawback al contrato] (https://youtu.be/-RgoA76BBD0)
-- Episode #3 [Implementación de Boxes y manejo de tiempo en contratos] (https://youtu.be/jXGmyykzNpk)
+- Episode #2 [Agregando Closeout y clawback al contrato](https://youtu.be/-RgoA76BBD0)
+- Episode #3 [Implementación de Boxes y manejo de tiempo en contratos](https://youtu.be/jXGmyykzNpk)
 
