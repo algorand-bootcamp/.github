@@ -22,10 +22,10 @@ Repository: https://github.com/algorand-bootcamp/ts-beginner-en
 
 Repository: https://github.com/algorand-bootcamp/ts-beginner-es
 
-- Sesión #1 [Introducción a Algokit y TEALScript, tus herramientas clave en web3](https://www.youtube.com/watch?v=PqsSVob5Yno)
-- Sesión #2 [Contrato base de la DAO y conceptos técnicos de Algorand](https://youtu.be/_0fBMn7r9GY)
-- Sesión #3 [Finalizando nuestro contrato de DAO](https://youtu.be/b_qExfS0AHQ?feature=shared)
-- Sesión #4 [Implementando un cliente con React](https://youtu.be/JT-aznbcRJ4)
+- Sesión #1 [Introducción a Algokit y TEALScript, tus herramientas clave en web3](https://youtu.be/ZeG4ST14ow4)
+- Sesión #2 [Contrato base de la DAO y conceptos técnicos de Algorand](https://youtu.be/HBL86XM5pSg)
+- Sesión #3 [Finalizando nuestro contrato de DAO](https://youtu.be/8MZTMkZ-0HU)
+- Sesión #4 [Implementando un cliente con React](https://youtu.be/gDN_9RhzKjs)
 
 ### Intermediate
 
@@ -43,7 +43,7 @@ Repository: https://github.com/algorand-bootcamp/ts-intermediate-en
 
 Repository: https://github.com/algorand-bootcamp/ts-intermediate-es
 
-- Episode #1 [Tipos de almacenamiento y pruebas del LocalState](https://youtu.be/H4JalPdKt0Q)
-- Episode #2 [Agregando Closeout y clawback al contrato](https://youtu.be/-RgoA76BBD0)
-- Episode #3 [Implementación de Boxes y manejo de tiempo en contratos](https://youtu.be/jXGmyykzNpk)
+- Episode #1 [Tipos de almacenamiento y pruebas del LocalState](https://youtu.be/qZs23WWeL8M)
+- Episode #2 [Agregando Closeout y clawback al contrato](https://youtu.be/NJhIwueqCOk)
+- Episode #3 [Implementación de Boxes y manejo de tiempo en contratos](https://youtu.be/8OPW47_GDnU)
 
