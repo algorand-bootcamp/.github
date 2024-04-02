@@ -10,7 +10,7 @@ Introduction to Algorand development.
 
 Repository: https://github.com/algorand-bootcamp/intro-en
 
-#### Spamnish
+#### Spanish
 
 Repository: https://github.com/algorand-bootcamp/intro-es
 
