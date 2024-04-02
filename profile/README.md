@@ -10,6 +10,10 @@ Introduction to Algorand development.
 
 Repository: https://github.com/algorand-bootcamp/intro-en
 
+#### Spamnish
+
+Repository: https://github.com/algorand-bootcamp/intro-es
+
 ## Fullstack TypeScript Bootcamps
 
 Fullstack courses using TypeScript for smart contracts via TEALScript and frontend via React. 
