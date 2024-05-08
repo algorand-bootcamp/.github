@@ -18,19 +18,19 @@ Repository: https://github.com/algorand-bootcamp/intro-es
 
 #### English
 
-Beginner: [https://github.com/algorand-bootcamp/intro-en](https://github.com/algorand-bootcamp/py-dm-beginner-en)
+Beginner: [https://github.com/algorand-bootcamp/py-dm-beginner-en](https://github.com/algorand-bootcamp/py-dm-beginner-en)
 
 #### Spanish
 
-Beginner: [https://github.com/algorand-bootcamp/intro-es](https://github.com/algorand-bootcamp/py-dm-beginner-es)
+Beginner: [https://github.com/algorand-bootcamp/py-dm-beginner-es](https://github.com/algorand-bootcamp/py-dm-beginner-es)
 
 
 ## Fullstack TypeScript Bootcamps
 
 #### English
 
-Beginner: [https://github.com/algorand-bootcamp/intro-en](https://github.com/algorand-bootcamp/ts-dm-beginner-en)
+Beginner: [https://github.com/algorand-bootcamp/ts-dm-beginner-en](https://github.com/algorand-bootcamp/ts-dm-beginner-en)
 
 #### Spanish
 
-Beginner: [https://github.com/algorand-bootcamp/intro-es](https://github.com/algorand-bootcamp/ts-dm-beginner-es)
+Beginner: [https://github.com/algorand-bootcamp/ts-dm-beginner-es](https://github.com/algorand-bootcamp/ts-dm-beginner-es)
